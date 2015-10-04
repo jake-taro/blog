@@ -1,5 +1,6 @@
 !追加
 remove mod1 = Alt_L
+!修正箇所
 !keycode 64 = Mode_switch
 !keycode  20 = minus equal underscore underscore
 !keycode  21 = asciicircum asciitilde bar bar
